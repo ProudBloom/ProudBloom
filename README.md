@@ -1,7 +1,7 @@
 # Hi there, I'm Jakub 👋
 ### Aspiring Front-end Developer
 
-I am a student of the 7th semester at the Łódź University of Technology, studying Information Technology at International Faculty Of Engineering.
+I am a student at the Łódź University of Technology, studying Information Technology at International Faculty Of Engineering.
 
 - 🔭 I’m currently working on my portfolio
 - 💻 I’m currently learning React and Node.js
