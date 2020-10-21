@@ -22,6 +22,6 @@ I am a student at the Łódź University of Technology, studying Information Tec
 <img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 ## Profile stats
-<img src="https://github-readme-stats.vercel.app/api?username=ProudBloom&&show_icons=true&theme=vue-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=ProudBloom&&show_icons=true&theme=vue">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProudBloom&hide=c%2B%2B,python&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
