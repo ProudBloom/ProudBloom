@@ -4,7 +4,7 @@
 I am a student at the Łódź University of Technology, studying Information Technology at International Faculty Of Engineering.
 
 - 🔭 I’m currently working on my portfolio
-- :bulb: I’m currently learning React and Node.js
+- :bulb: I’m currently learning VueJS and Nuxt
 - 💻 I’m working for [DotAndSpot](https://www.dotandspot.pl/) as a Front-end Developer
 - 📫 You can contact me via e-mail: *jakub.sztompka@int.pl*
 - 😄 Three words describing me: open, eager to learn, friendly
