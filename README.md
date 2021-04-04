@@ -22,7 +22,7 @@ I am a student at the Łódź University of Technology, studying Information Tec
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Vue" width="30px" src="https://user-images.githubusercontent.com/34416677/113511366-bec5d500-955f-11eb-8bef-67609480970f.png">
-<img align="left" alt="React" width="40px" src="https://user-images.githubusercontent.com/34416677/113511270-5545c680-955f-11eb-8e2e-91833a179d9d.png" />
+<img align="left" alt="React" width="30px" src="https://user-images.githubusercontent.com/34416677/113511531-8246a900-9560-11eb-9fa2-b54770165b24.png" />
 <img align="left" alt="Redux" width="30px" src="https://user-images.githubusercontent.com/34416677/113511445-15cbaa00-9560-11eb-9b08-723c95ba320b.png" />
 <br>
 
