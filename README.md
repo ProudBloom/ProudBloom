@@ -4,7 +4,7 @@
 I am a graduate of the Łódź University of Technology (Information Technology at International Faculty Of Engineering).
 
 - 🔭 I’m currently working on my portfolio
-- :bulb: I’m currently learning VueJS and Nuxt
+- :bulb: I’m currently learning React and Firebase
 - 💻 I’m working for [BinarApps](https://binarapps.com/) as a Front-end Developer
 - 📫 You can contact me via e-mail: *jakub.sztompka@int.pl*
 - 😄 Three words describing me: open, eager to learn, friendly
