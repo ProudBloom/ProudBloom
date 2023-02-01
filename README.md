@@ -1,11 +1,11 @@
 # Hi there, I'm Jakub 👋
 ### Aspiring Front-end Developer
 
-I am a student at the Łódź University of Technology, studying Information Technology at International Faculty Of Engineering.
+I am a graduate of the Łódź University of Technology (Information Technology at International Faculty Of Engineering).
 
 - 🔭 I’m currently working on my portfolio
 - :bulb: I’m currently learning VueJS and Nuxt
-- 💻 I’m working for [DotAndSpot](https://www.dotandspot.pl/) as a Front-end Developer
+- 💻 I’m working for [BinarApps](https://binarapps.com/) as a Front-end Developer
 - 📫 You can contact me via e-mail: *jakub.sztompka@int.pl*
 - 😄 Three words describing me: open, eager to learn, friendly
 - ⚡ Fun fact: At my free time I love to play basketball, guitar and some cool video games!
