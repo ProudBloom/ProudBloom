@@ -27,6 +27,6 @@ I am a graduate of the Łódź University of Technology (Information Technology 
 <br>
 
 ## Profile stats
-<img src="https://github-readme-stats.vercel.app/api?username=ProudBloom&&show_icons=true&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api?username=ProudBloom&&show_icons=true&theme=vue&count_private=true">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProudBloom&hide=c%2B%2B,python&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
